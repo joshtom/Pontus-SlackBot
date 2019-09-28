@@ -32,7 +32,7 @@
                         </a>
                     </li>
                     <li class="navbar--item">
-                        <a href="Dashboard.php">
+                        <a href="dashboard.php">
                             <i class="far fa-star"></i><span>View yours Conversion</span>
                         </a>
                     </li>
